@@ -1,5 +1,5 @@
-# La-tierra-les-dice-holaa
-### Buenos días estrellitas, la tierra les dice hola. Repo del reto #02
+# Codigo de bienvenida 
+### hola mundoo. Repo del reto #02
 ---
 La idea de este reto es ejecutar el siguiente code:
 ```
